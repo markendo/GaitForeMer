@@ -1,0 +1,60 @@
+A1: drink water
+A2: eat meal
+A3: brush teeth
+A4: brush hair
+A5: drop
+A6: pick up
+A7: throw
+A8: sit down
+A9: stand up
+A10: clapping
+A11: reading
+A12: writing
+A13: tear up paper
+A14: put on jacket
+A15: take off jacket
+A16: put on a shoe
+A17: take off a shoe
+A18: put on glasses
+A19: take off glasses
+A20: put on a hat/cap
+A21: take off a hat/cap
+A22: cheer up
+A23: hand waving
+A24: kicking something
+A25: reach into pocket
+A26: hopping
+A27: jump up
+A28: phone call
+A29: play with phone/tablet
+A30: type on a keyboard
+A31: point to something
+A32: taking a selfie
+A33: check time (from watch)
+A34: rub two hands
+A35: nod head/bow
+A36: shake head
+A37: wipe face
+A38: salute
+A39: put palms together
+A40: cross hands in front
+A41: sneeze/cough
+A42: staggering
+A43: falling down
+A44: headache
+A45: chest pain
+A46: back pain
+A47: neck pain
+A48: nausea/vomiting
+A49: fan self
+A50: punch/slap
+A51: kicking
+A52: pushing
+A53: pat on back
+A54: point finger
+A55: hugging
+A56: giving object
+A57: touch pocket
+A58: shaking hands
+A59: walking towards
+A60: walking apart

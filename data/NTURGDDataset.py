@@ -252,7 +252,7 @@ class NTURGDDatasetSkeleton(torch.utils.data.Dataset):
   def compute_norm_stats(self, data):
     self._norm_stats = {}
     mean = np.mean(data, axis=0)
-    std = np.mean(data, axis=0)
+    std = np.std(data, axis=0)
     std[np.where(std<_MIN_STD)] = 1
 
     self._norm_stats['mean'] = mean.ravel()
