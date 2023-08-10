@@ -15,7 +15,7 @@ GaitForeMer (Gait Forecasting and impairment estimation transforMer) predicts MD
 
 The pre-trained weights are available for download [here](https://stanfordmedicine.box.com/s/d43piha9pos9xneisfgxln394tc81oyp).
 
-If you would like, you can perform your own pre-training. In order to run your own pre-training, you will have to download the [**NTURGB+D**](https://rose1.ntu.edu.sg/dataset/actionRecognition/) dataset. Place the ```nturgbd_skeletons_s001_to_s017.zip``` and ```action_labels.txt``` files into the ```data/nturgb+d_data``` directory and unzip the zip file. You will then have to process the data by running ```python data/NTURGDDataset.py```. This will create all the needed files for pre-training the model. Once these steps have been completed, use the following script to do your own pre-training.
+If you would like, you can perform your own pre-training. In order to run your own pre-training, you will have to download the [**NTURGB+D**](https://rose1.ntu.edu.sg/dataset/actionRecognition/) dataset. Place ```nturgbd_skeletons_s001_to_s017.zip``` into the ```data/nturgb+d_data``` directory and unzip the file. You will then have to process the data by running ```python data/NTURGDDataset.py```. This will create all the needed files for pre-training the model. Once these steps have been completed, use the following script to do your own pre-training.
 
 ```
 python training/transformer_model_fn.py \
